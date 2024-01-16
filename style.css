@@ -1,0 +1,28 @@
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .navbarbrand {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .navbar-logo {
+    height: 100px; /* 예시 높이 */
+    width: auto; /* 너비는 자동으로 조절하여 비율 유지 */
+  }
+  
+  .custom-padding {
+    padding: 15px 30px; /* 상하 15px, 좌우 30px의 패딩 */
+  }
+
+  .custom-margin {
+    margin: 50px; /* 모든 방향에 20px의 마진 */
+  }
+  
+  .paragraph-spacing {
+    margin-bottom: 30px; /* 간격을 조절할 크기를 설정하세요. */
+}
+  
